@@ -7,6 +7,7 @@ using namespace std;
 int M[N][N],n,m;
 int ans[N][N][4];
 int dir[4][2]={0,1,1,0,0,-1,-1,0};
+
 typedef struct P
 {
 	int cnt,dir;

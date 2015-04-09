@@ -6,6 +6,7 @@ using namespace std;
 struct pt
 {
 	int x,y;
+	
 };
 
 int map[201][201];

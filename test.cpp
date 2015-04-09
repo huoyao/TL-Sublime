@@ -10,7 +10,7 @@ using namespace std;
 typedef pair<int, int> Pos;
 
 int	m, n, s;
-Pos	man, des, box;	//玩家、目标点、箱子
+Pos	man, des, box;	//玩家、目标点、箱子 good
 int mat[MAXM][MAXN];
 
 Pos	opt[4] = {mp(1,0), mp(-1,0), mp(0, -1), mp(0,1)};

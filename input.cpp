@@ -1,6 +1,8 @@
 /*input
 122
 */
+//sublimeInput package support
+
 #include <iostream>
 #include <vector>
 #include <cstdio>
@@ -12,10 +14,6 @@ int main()
   int t;
   cout << "good for github";
   cout << "it is new";
-
-
-
-
   cin >> t;
   cout << "wow 哈哈:" << t << endl;
   cout << "text good " << endl;
